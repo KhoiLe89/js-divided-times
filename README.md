@@ -1,1 +1,13 @@
 # js-divided-times
+
+View the obfuscated code, see how the site works. Use jQuery to recreate the functionality. Below we've listed the jQuery functions needed to accomplish the task. Write the pseudo code for the website and then begin to code.
+
+Functions to look up:
+	*	.toggleClass()
+	*	.hasClass()
+	*	.hide()
+	*	.show()
+	*	.slideUp()
+	*	.siblings
+	*	.removeClass()
+	*	.addClass()
